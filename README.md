@@ -8,14 +8,15 @@ To contribute the success of business by utilizing data analysis techniques prov
 
 Dashboard contain :-
 
-- Area chart
-- Donut chart
-- Slicer
 - Title
+- Card
+- Slicer
 - KPI
+- Area Chart
 - Bar chart
-- Column chart
-
+- Donut chart
+- Stacked column chart
+  
 Insight :-
 
 - Maximum sales are driven through COD payment mode.
